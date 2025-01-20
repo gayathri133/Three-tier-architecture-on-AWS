@@ -47,7 +47,7 @@ Follow these steps to deploy the architecture:
    - Configure IAM roles to grant specific permissions to resources.  
 
 ## Project Documentation  
-For detailed architecture diagrams, configurations, and additional notes, refer to the [Project Document.docx](link-to-document).  
+For detailed architecture diagrams, configurations, and additional notes, refer to the "Project Document.docx" 
 
 ## Future Enhancements  
 - Implement AWS CloudFormation for automated deployment.  
